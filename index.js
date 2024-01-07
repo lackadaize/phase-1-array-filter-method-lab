@@ -23,5 +23,3 @@ function matchName(drivers, string) {
 }
 
 // console.log(matchName(driver, 'Bobby')); // [{name: 'Bobby',hometown: 'Pittsburgh'},{name: 'Bobby',hometown: 'Tampa Bay'}]
-
-// test
